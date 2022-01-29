@@ -1,0 +1,9 @@
+Has Tasks and subtasks
+1 create Task
+2 create subtasks
+3 delete Tasks
+4 mark tasks as complete
+dispaly subtaks inde=nted
+autmaticaly martk task as comlete when all subtaksa re comelted
+save tasks into a file (serialization or as plain text)
+*** find a way to have multipe different lsits saved in one file and accesed by a different key of sorts (Hasmap or map maybe???)***
